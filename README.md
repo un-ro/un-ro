@@ -18,4 +18,4 @@ Writing `ready to production` codes, sometimes test too (Uhm, let me think about
 
 Thank you,
 
-[Unero](mailto:ramadhanbhg@gmail.com)
+[Unero](mailto:me@unero.dev)
